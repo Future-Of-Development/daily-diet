@@ -83,7 +83,7 @@ Este projeto está sob a licença **MIT**. Para mais detalhes, consulte o arquiv
 ## 👨‍💻 Autores  
 
 Feito com 💜 por:  
-- **Sérgio Rodrigues** – Implementação geral e coordenação  
+- **Sérgio Rodrigues** – Desenvolvimento do **Front-end**
 - **Rodrigo Spinelli** – Desenvolvimento do **Back-end**  
 - **Rafael Melo** – Desenvolvimento do **Front-end**  
 
@@ -92,17 +92,6 @@ Feito com 💜 por:
 ## 📢 Agradecimentos  
 
 Agradeço à **Rocketseat** pela oportunidade e por todos os conteúdos incríveis disponibilizados! 🚀  
-
----
-
-## 📞 Contato  
-
-Caso tenha dúvidas ou sugestões, entre em contato:  
-
-- **Sérgio Rodrigues**  
-  - [LinkedIn](https://www.linkedin.com/in/sergio-rodrigues)  
-  - [GitHub](https://github.com/seu-usuario)  
-  - **Email:** sergio.rodrigues@email.com  
 
 ---
 
