@@ -30,15 +30,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout  
 
-O design deste projeto segue o desafio proposto pela Rocketseat. Para acessar o layout, [clique aqui](https://www.figma.com).  
-> **Nota:** O link do layout pode estar disponível apenas para assinantes da plataforma Rocketseat.
+O design deste projeto segue o desafio proposto pela Rocketseat. Para acessar o layout, [clique aqui](https://www.figma.com/design/kOu6ooqO3SLeU9tBXotnp0/Daily-Diet-•-Desafio-React-Native-(Community)?node-id=0-1&node-type=canvas&t=cc12ICRcrjGaJwRr-0).  
+> **Nota:** O link do layout pode estar indisponível dependendo da data de acesso.
 
 ---
 
 ## ⚙️ Como executar o projeto  
 
 ### Pré-requisitos  
-- [Node.js](https://nodejs.org) instalado  
+- [Node.js 20.11.1](https://nodejs.org) instalado  
 - Gerenciador de pacotes **npm** ou **yarn**  
 
 ### Passo a passo para rodar localmente:  
@@ -83,11 +83,18 @@ Este projeto está sob a licença **MIT**. Para mais detalhes, consulte o arquiv
 ## 👨‍💻 Autores  
 
 Feito com 💜 por:  
-- **Sérgio Rodrigues** – Desenvolvimento do **Front-end**
-- **Rodrigo Spinelli** – Desenvolvimento do **Back-end**  
-- **Rafael Melo** – Desenvolvimento do **Front-end**  
+- **Sérgio Rodrigues** – Desenvolvimento do **Front-end**  
+  - [GitHub](https://github.com/SergioHenriqueRodrigues)  
+  - [LinkedIn](https://www.linkedin.com/in/sergiohrodrigues/)  
 
----
+- **Rodrigo Spinelli** – Desenvolvimento do **Back-end**  
+  - [GitHub](https://github.com/RodrigoSpinelli)  
+  - [LinkedIn](https://www.linkedin.com/in/rodrigo-spinelli-632a50199/)  
+
+- **Rafael Melo** – Desenvolvimento do **Front-end**  
+  - [GitHub](https://github.com/rafaeljosemelo)  
+  - [LinkedIn](https://www.linkedin.com/)  
+
 
 ## 📢 Agradecimentos  
 
